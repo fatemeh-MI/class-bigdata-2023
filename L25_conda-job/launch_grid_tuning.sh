@@ -15,7 +15,7 @@ conda activate parallel-modelling
 
 echo "launching R script"
 date
-Rscript parallel_grid_tuning.R
+Rscript parallel_grid_tuning.R just to show what we write is identical 
 
 echo "job completed"
 date
